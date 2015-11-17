@@ -9,7 +9,7 @@ title:               Jackie Blog
 tagline:             'Android'
 description:		 ''
 url:                 http://jackie880823.github.io
-baseurl:             ''
+baseurl:             /
 paginate:            5
 
 # About/contact
