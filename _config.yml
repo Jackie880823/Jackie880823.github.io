@@ -6,15 +6,15 @@ relative_permalinks: true
 
 # Setup
 title:               Jackie Blog
-tagline:             'Android'
-description:		 ''
-url:                 http://jackie880823.github.io
-baseurl:             /
+tagline:             Android
+description:         ''
+url:                 http://jackie880823.github.i
+baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Jackie Blog 
+  name:              Jackie Blog
   url:               http://jackie880823.github.io/
   email:             markdotto@gmail.com
 
