@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Jackie Blog
-tagline:             Android
+title:               Jackie
+tagline:             Android Developer
 description:         ''
 url:                 http://jackie880823.github.io
 baseurl:             ''
@@ -15,8 +15,8 @@ paginate:            5
 # About/contact
 author:
   name:              Jackie Blog
-  url:               http://jackie880823.github.io/
-  email:             markdotto@gmail.com
+  url:               http://jackie880823.github.io
+  email:             jackie880823@gmail.com
 
 # Custom vars
 version:             1.0.0
