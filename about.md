@@ -4,6 +4,6 @@ title: About
 ---
 ##Share About Android Developer
 
-**GitHub: [jackie880823.github.io](http://jackie880823.github.io)**
+**GitHub:[https://github.com/Jackie880823](https://github.com/Jackie880823)**
 
-**Email:  jackie880823@gmail.com**
+**Email:jackie880823@gmail.com**
