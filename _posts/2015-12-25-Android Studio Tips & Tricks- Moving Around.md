@@ -10,6 +10,7 @@ title: Android Studion 贴士 & 技巧：漫游
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 2. 我是一枚极客。
 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在2012年我把IDE切换到基于[Intellij IDEA](http://www.jetbrains.com/idea/features/android.html)的[Android Studio](http://developer.android.com/sdk/installing/studio.html)时，为了提高效率我花费大量时间来了解其结构和技术。直到你找到了这里，我敢猜测你的做法同我一样，所以我希望这些能够使你开发更顺手。
+
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在这个系列中我会从`Android Studio`最基础每个开发者都该了解的技巧开始。
 
 ##快捷键（Keymaps）
