@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Studion 贴士 - 综述#1
+title: Android Studio 贴士 - 综述#1
 ---
 *作者：Philippe Breault  英文原文：[http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1)*
 
