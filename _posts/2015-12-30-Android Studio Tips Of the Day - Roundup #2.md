@@ -75,6 +75,19 @@ title: Android Studio 贴士 - 综述#2
 
 ![现场样板](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/android-studio-tips-of-the-day-roundup-2/15-live_templates.gif?raw=true)
 
+###移动函数
+
+|         OSX         |          Linu          |         windows        |
+|---------------------|------------------------|------------------------|
+| cmd + alt + up/down | ctrl + shift + up/down | ctrl + shift + up/down |
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这个快捷键类似`移动行`，但这是个是用在移动函数上，你可以上下移动函数不需要使用复制-粘贴。
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这里的`移动函数`的实际意义是移动任何类型的组件。比如：移动代码块到内部类。
+
+![现场样板](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/android-studio-tips-of-the-day-roundup-2/15-movemethods.gif?raw=true)
+
+
 ###补全组件
 
 |         OSX         |        Linu          |       windows        |
