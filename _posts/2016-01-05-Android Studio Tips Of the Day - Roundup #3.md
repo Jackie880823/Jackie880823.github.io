@@ -139,9 +139,9 @@ title: Android Studio 贴士 - 综述#3
 
 ---
 
-## **规模分析**
+## **分析堆栈**
 
-![标识项目](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/android-studio-tips-of-the-day-roundup-3/30-analyzestacktrace.gif?raw=true)
+![项目](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/android-studio-tips-of-the-day-roundup-3/30-analyzestacktrace.gif?raw=true)
 
 **快捷方式：** 这个没有快捷键
 
