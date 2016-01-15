@@ -127,7 +127,7 @@ title: Android Studio 贴士 - 综述#3
 
 ![标识项目](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/android-studio-tips-of-the-day-roundup-3/29-markobject.gif?raw=true)
 
-在调试会话期间,这将让你添加一个标签到一个特定的对象。
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;在调试会话期间,这将让你添加一个标签到一个特定的对象。
 
 **快捷方式**
 
@@ -146,7 +146,7 @@ title: Android Studio 贴士 - 综述#3
 **快捷方式：** 这个没有快捷键
 
 * 鼠标：菜单 》Analyze Stacktrace
-* 摸查行为：analyze stacktrace
+* 查找行为：analyze stacktrace
 
 
 
