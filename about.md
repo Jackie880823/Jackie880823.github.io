@@ -16,6 +16,8 @@ title: About
 
 ###**打赏**
  
+*若我分享能够让您有所收获，欢迎打赏！您的肯定是我前进的动力*
+
 * 微信打赏 
 
 ![webChat](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/chat_collecting.JPG?raw=true)
