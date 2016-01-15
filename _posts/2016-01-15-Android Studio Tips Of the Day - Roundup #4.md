@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Android Studio 贴士 - 综述#3
+title: Android Studio 贴士 - 综述#4
 ---
-*作者：Philippe Breault  英文原文：[http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3)*
+*作者：Philippe Breault  英文原文：[http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4)*
 
 *&#160;&#160;&#160;&#160;&#160;&#160;&#160;注：文中链接皆为国外链接，可能需要翻墙*
 
