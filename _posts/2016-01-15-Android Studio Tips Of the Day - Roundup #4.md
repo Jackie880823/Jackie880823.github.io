@@ -36,11 +36,12 @@ title: Android Studio 贴士 - 综述#4
 
 ---
 
-#**高超的多文本选择**
+#**牛逼的多文本选择**
 
 ![Sublime Text Multi Selection](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/android-studio-tips-of-the-day-roundup-4/32-multiselection.gif?raw=true)
 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这条装逼专用！
+
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这会在你当前选择和下一个选择的文本中添加都添加游标。这意味着你可以在一个文件有多个编辑游标！并同时在这些游标上编辑。
 
 **快捷方式**
