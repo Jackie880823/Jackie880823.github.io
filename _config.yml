@@ -1,3 +1,17 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+facebook_username: Jackie Zhu
+github_username:  jackie880823
+
+# Build settings
+markdown: kramdown
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -7,9 +21,9 @@ relative_permalinks: true
 # Setup
 title:               Jackie
 tagline:             Android Developer
-description:         ''
+description:         ""
 url:                 http://jackie880823.github.io
-baseurl:             ''
+baseurl:             ""
 paginate:            5
 
 # About/contact
