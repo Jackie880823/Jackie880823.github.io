@@ -83,6 +83,10 @@ html {
   font-size: 3.25rem;
 }
 
+.sidebar-about image {
+  margin: 0 auto 0 auto;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
