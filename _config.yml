@@ -7,17 +7,16 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:               Jackie
-tagline:             Android Developer
-description:         ''
-url:                 http://jackie880823.github.io
-baseurl:             ''
+title:            Jackie
+tagline:          'Android Developer'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://jackie880823.github.io
+baseurl:          /
 
 # About/contact
 author:
-  name:              Jackie Blog
-  url:               http://jackie880823.github.io
-  email:             jackie880823@gmail.com
+  name:           'Jackie Blog'
+  url:            http://jackie880823.github.io
 
 paginate:         5
 
