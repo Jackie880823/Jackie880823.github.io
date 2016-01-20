@@ -84,8 +84,10 @@ html {
 }
 
 .sidebar-about image {
+  width: 18rem;
   align-self: center;
-  -webkit-align-content: center;
+  align-content: center;
+  align-items: center;
 }
 
 /* Sidebar nav */
