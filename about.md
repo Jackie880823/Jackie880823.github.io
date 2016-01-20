@@ -2,29 +2,28 @@
 layout: page
 title: About
 ---
+##Share About Android Developer
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+**GitHub: [https://github.com/Jackie880823](https://github.com/Jackie880823)**
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**Email: jackie880823@gmail.com**
 
-There are currently two themes built on Poole:
+**微信公众号**
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+![image](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/web-chat.jpg?raw=true)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+---
 
-## Setup
+###**打赏**
 
-Some fun facts about the setup of this project include:
+*若我的分享能够让您有所收获，欢迎打赏！您的肯定是我前进的动力*
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* 微信打赏
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+![webChat](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/chat_collecting.JPG?raw=true)
 
-Thanks for reading!
+
+
+* 支付宝打赏
+
+![ali](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/ali_collecting.JPG?raw=true)
