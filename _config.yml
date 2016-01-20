@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Jackie
 tagline:          'Android Developer'
-description:      '一份耕耘一份收获,多份分享多份快乐;\n
+description:      '一份耕耘一份收获,多份分享多份快乐;
                   分享有用的文档,开发自己喜欢的应用'
 url:              http://jackie880823.github.io
 baseurl:          ""
