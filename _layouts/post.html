@@ -1,25 +1,21 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  <div class="related">
-    <h2>打赏</h2>
-    <i>若我分享能够让您有所收获，欢迎打赏！您的肯定是我前进的动力！</i></br>
-    微信打赏</br>
-    <img src="https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/chat_collecting.JPG?raw=true"></br>
-    支付宝打赏</br>
-    <img src="https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/ali_collecting.JPG?raw=true">
-  </div>
+<div class="related">
+  <h2>打赏</h2>
+  <i>若我分享能够让您有所收获，欢迎打赏！您的肯定是我前进的动力！</i></br>
+  微信打赏</br>
+  <img src="https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/chat_collecting.JPG?raw=true"></br>
+  支付宝打赏</br>
+  <img src="https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/ali_collecting.JPG?raw=true">
+</div>
 
 <div class="related">
   <h2>Related Posts</h2>
@@ -36,4 +32,3 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-</article>
