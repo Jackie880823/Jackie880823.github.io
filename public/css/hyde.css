@@ -91,9 +91,9 @@ html {
 }
 
 /* Sidebar nav */
-.sidebar-nav {
-  margin-bottom: 1rem;
-}
+/*.sidebar-nav {*/
+  /*margin-bottom: 1rem;*/
+/*}*/
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
