@@ -66,7 +66,7 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -83,17 +83,10 @@ html {
   font-size: 3.25rem;
 }
 
-.sidebar-about image {
-  width: 18rem;
-  align-self: center;
-  align-content: center;
-  align-items: center;
-}
-
 /* Sidebar nav */
-/*.sidebar-nav {*/
-  /*margin-bottom: 1rem;*/
-/*}*/
+.sidebar-nav {
+  margin-bottom: 1rem;
+}
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
