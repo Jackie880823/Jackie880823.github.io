@@ -5,8 +5,6 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="related">
-  </div>
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -18,10 +16,9 @@ title: Home
 
     {{ post.content | strip_html | truncatewords:10 }}
   </div>
+  <div class="post-list-item">
+  </div>
   {% endfor %}
-</div>
-
-<div class="related">
 </div>
 
 <div class="pagination">
