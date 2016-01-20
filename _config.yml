@@ -9,7 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Jackie
 tagline:          'Android Developer'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      '一份耕耘一份收获,多份分享多份快乐;\n
+                  分享有用的文档,开发自己喜欢的应用'
 url:              http://jackie880823.github.io
 baseurl:          ""
 root:             /
