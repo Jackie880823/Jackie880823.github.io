@@ -6,7 +6,7 @@ title: Android Studio 贴士 - 综述#5
 
 *&#160;&#160;&#160;&#160;&#160;&#160;&#160;注：文中链接皆为国外链接，可能需要翻墙*
 
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;这篇是我发表在[Google+](https://plus.google.com/+PhilippeBreault/)上有关`Android Studio 贴士`综述的第二部分。你可以点击（[原文](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/) 或 [译文](http://jackie880823.github.io/2015/12/26/Android%20Studio%20Tips%20Of%20the%20Day%20-%20Roundup%20%231/)）查看上一部分的内容。
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;这篇是我发表在[Google+](https://plus.google.com/+PhilippeBreault/)上有关`Android Studio 贴士`综述的第二部分。你可以点击（[原文](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5) 或 [译文](http://jackie880823.github.io/2016/01/18/Android%20Studio%20Tips%20Of%20the%20Day%20-%20Roundup%20%235/)）查看上一部分的内容。
 
 
 #**快捷键映射表（Keymaps）**
