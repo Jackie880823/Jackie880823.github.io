@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Android应用授权 1
+title: Android开发资源集锦
 ---
+
 *英文原文：[http://www.bongizmo.com/blog/android-resources-each-developer-should-know/](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)*
 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;随着 Android 平台持续惊人的增长，越来越多的开发人员开始工作于 Android 应用程序。而且现在的 Android 平台已经非常成熟了。
@@ -100,18 +101,18 @@ title: Android应用授权 1
 
 ### ANDROID 巨星
 
-由于 Android 的开发者生态系统持续蓬勃发展是基于许多非常优秀的开发者的贡献，所以在这里我特别要提到这两个让 Android 开发者更轻松生活的巨星。他们是：[Mark Murphy](https://wares.commonsware.com/#bongizmo) 和 [Jake Wharton](https://github.com/JakeWharton).。
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;由于 Android 的开发者生态系统持续蓬勃发展是基于许多非常优秀的开发者的贡献，所以在这里我特别要提到这两个让 Android 开发者更轻松生活的巨星。他们是：[Mark Murphy](https://wares.commonsware.com/#bongizmo) 和 [Jake Wharton](https://github.com/JakeWharton).。
 
-Mark 和 Jake 为 Android 开源做了诸多贡献。所以如果你有幸遇到他们，一定要向他们请教，你肯定会受益匪浅。
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mark 和 Jake 为 Android 开源做了诸多贡献。所以如果你有幸遇到他们，一定要向他们请教，你肯定会受益匪浅。
 
-当然，其他还有很多 Android 框架开发人员和设计人员参与了 Android 的发展。
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当然，其他还有很多 Android 框架开发人员和设计人员参与了 Android 的发展。
 
-最后，结尾
+### 最后，结尾
 
-现在你已经知道了关于如何写 Android 应用程序的所有信息和工具！但是，你还需要一个伟大的 Android UI 设计师，不过这就不是本文讨论的范围了。如果你想要开始写你的第一个 Android 应用程序，那么对此一定要有所涉猎。
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;现在你已经知道了关于如何写 Android 应用程序的所有信息和工具！但是，你还需要一个伟大的 Android UI 设计师，不过这就不是本文讨论的范围了。如果你想要开始写你的第一个 Android 应用程序，那么对此一定要有所涉猎。
 
-如果我有遗漏任何重要资源的地方，请在评论中告诉我，让我们共同进步。
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果我有遗漏任何重要资源的地方，请在评论中告诉我，让我们共同进步。
 
-编码快乐！
+**编码快乐！**
 
 ![image](https://github.com/Jackie880823/Jackie880823.github.io/blob/master/img/android-resources-each-developer-should-know/index_landing_page.png?raw=true)
